@@ -7,7 +7,7 @@
 - 通过idea打开项目fupin
 - 根据本地数据库环境，修改src/jdbc.properties  1-4行
 - 配置tocamt
-- 启动项目：http://本机ip:8080/fupin_war_exploded/ 其中fupin_war_exploded可以自己配置
+- 启动项目：本机ip:8080/fupin_war_exploded/ 其中fupin_war_exploded可以自己配置
 # 3.项目部分截图
 ![输入图片说明](1.png)
 ![输入图片说明](2.png)
